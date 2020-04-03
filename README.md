@@ -4,7 +4,7 @@ The following repository contains the code I utilized to gather and analyze Citi
 The data can be found on the [Citi Bike](https://www.citibikenyc.com/system-data) website. 
 For this project I utilized all available trip history data from launch through December 2019.
 
-My narrative about the project can be found [here](https://nycdatascience.com/blog/student-works/searching-for-seasonality-citi-bike-trip-history-analysis/)
+My narrative about the project can be found [here](https://nycdatascience.com/blog/student-works/searching-for-seasonality-citi-bike-trip-history-analysis/).
 
 **Repository Organization**
 
